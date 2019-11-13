@@ -1,0 +1,9 @@
+int f = 12 + 30 ,  s;
+string g = "asda" ;
+float c = 2.5 - 2;
+
+void ahora (int b, int h) { 
+
+if ( c < g || f == f ){
+f = 30 + 2;
+}
